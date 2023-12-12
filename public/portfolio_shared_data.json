@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Brajagopal Mukherjee",
+      "titles": [ "Front-end Developer", "Backend devloper", "Full Stack Devloper", "Software Engineer" ],
       "social": [
         {
           "name": "github",
@@ -29,8 +29,8 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "React",
+          "class": "devicon-react-original",
           "level": "80"
         },
         {
@@ -52,11 +52,6 @@
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
         },
         {
           "name": "MySql",

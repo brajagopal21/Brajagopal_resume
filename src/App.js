@@ -85,17 +85,10 @@ class App extends Component {
         <Header sharedData={this.state.sharedData.basic_info} />
         <div className="col-md-12 mx-auto text-center language">
           <div
-            onClick={() =>
-              this.applyPickedLanguage(
-                window.$primaryLanguage,
-                window.$secondaryLanguageIconId
-              )
-            }
             style={{ display: "inline" }}
           >
             <span
               className="iconify language-icon mr-5"
-              data-icon="twemoji-flag-for-flag-united-kingdom"
               data-inline="false"
               id={window.$primaryLanguageIconId}
             ></span>
@@ -111,7 +104,6 @@ class App extends Component {
           >
             <span
               className="iconify language-icon"
-              data-icon="twemoji-flag-for-flag-poland"
               data-inline="false"
               id={window.$secondaryLanguageIconId}
             ></span>
